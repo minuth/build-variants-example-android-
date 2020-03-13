@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">build variants</string>
+    <string name="app_status">Production mode</string>
+</resources>
